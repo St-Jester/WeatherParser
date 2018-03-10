@@ -1,0 +1,9 @@
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\NP\ThreeWeather\ThreeWeather\bin\Debug\ThreeWeather.exe.config
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\NP\ThreeWeather\ThreeWeather\bin\Debug\ThreeWeather.exe
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\NP\ThreeWeather\ThreeWeather\bin\Debug\ThreeWeather.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\NP\ThreeWeather\ThreeWeather\obj\Debug\ThreeWeather.csprojResolveAssemblyReference.cache
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\NP\ThreeWeather\ThreeWeather\obj\Debug\ThreeWeather.Form1.resources
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\NP\ThreeWeather\ThreeWeather\obj\Debug\ThreeWeather.Properties.Resources.resources
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\NP\ThreeWeather\ThreeWeather\obj\Debug\ThreeWeather.csproj.GenerateResource.Cache
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\NP\ThreeWeather\ThreeWeather\obj\Debug\ThreeWeather.exe
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\NP\ThreeWeather\ThreeWeather\obj\Debug\ThreeWeather.pdb
